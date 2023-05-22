@@ -72,10 +72,10 @@
 # Input: 2016
 # Output: YES
                               #   decision
-# a = int(input("Введите год: "))
-# b = 4
-# c = 100
-# d = 400
-# if a % b == 0 and a % c != 0 or a % d == 0 :
-#     print ("Yes")
-# else : print ("No")
+a = int(input("Введите год: "))
+b = 4
+c = 100
+d = 400
+if a % b == 0 and a % c != 0 or a % d == 0 :
+    print ("Yes")
+else : print ("No")
