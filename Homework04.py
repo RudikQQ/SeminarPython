@@ -58,3 +58,8 @@
 #     arr_count.append(arr[i - 1] + arr[i] +arr[i +1])
 # arr_count.append(arr[-2] + arr[i] + arr[0])    
 # print(max(arr_count))
+# 1: Даны два произвольные списка. Удалите из первого списка элементы присутствующие во втором списке
+
+
+
+
